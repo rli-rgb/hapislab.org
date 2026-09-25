@@ -12,6 +12,65 @@
   location: Yokohama, Japan
   doi:
   
+ - type: inproceedings
+  year: 2026
+  authors:
+    - Sota Iwabuchi
+    - Shun Suzuki
+    - Takaaki Kamigaki
+    - Yasutoshi Makino
+    - Hiroyuki Shinoda
+  title: "Evaluation of Haptic Communication for Mechanical Stimulation with High Spatial Resolution"
+  note: Late-breaking poster
+  booktitle: "SICE Festival 2026 with Annual Conference"
+  pages: 
+  eventDate: Sep. 14-17
+  location: Yokohama, Japan
+  doi: 
+
+- type: inproceedings
+  year: 2026
+  authors:
+    - Yasutoshi Makino
+    - Shintaro Watabe
+    - Hiroyuki Shinoda
+  title: " Prediction of Gait Direction from Skeletal Motion: Identification of Key Body Joints and Their Minimal Configuration"
+  note: Regular paper
+  booktitle: "SICE Festival 2026 with Annual Conference"
+  pages: 609--615
+  eventDate: Sep. 14-17
+  location: Yokohama, Japan
+  doi: 
+
+- type: inproceedings
+  year: 2026
+  authors:
+    - Yasutoshi Makino
+    - Chonghoon Park
+    - Shinji Tanaka 
+    - Hiroyuki Shinoda
+  title: "Evaluation of Guide Dog Training Using a Handle-Mounted Force Sensor and a 360-Degree Camera"
+  note: Position paper
+  booktitle: "SICE Festival 2026 with Annual Conference"
+  pages: 616--619
+  eventDate: Sep. 14-17
+  location: Yokohama, Japan
+  doi: 
+
+- type: inproceedings
+  year: 2026
+  authors:
+    - Kaito Oota
+    - Yasutoshi Makino
+    - Hiroyuki Shinoda
+  title: "Flow Field Design through Acoustic Streaming by Airborne Ultrasound Phased Arrays"
+  booktitle: "SICE Festival 2026 with Annual Conference"
+  note: Regular paper
+  pages: 1190--1195
+  eventDate: September 14-17
+  location: Yokohama, Japan
+  doi:
+  
 - type: inproceedings
   year: 2026
   authors:
